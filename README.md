@@ -13,7 +13,7 @@ git clone git@github.com:aiba51/fluxion.git
 
 # Or if you prefer https 
 
-git clone https://www.github.com/aiba51/fluxion.git
+git clone https://github.com/aiba51/fluxion.git
 ```
 **Switch to tool's directory**
 ```
